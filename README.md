@@ -1,4 +1,4 @@
-```markdown
+
 # GroupSnap 📷
 
 > **Never miss being in the group photo again**
@@ -47,27 +47,26 @@ GroupSnap/
 ├── .gitignore
 ├── LICENSE
 ├── android-app/
-│   ├── app/
-│   │   ├── src/main/java/com/yourname/groupsnap/
-│   │   │   ├── MainActivity.kt
-│   │   │   ├── camera/
-│   │   │   │   ├── CameraController.kt
-│   │   │   │   └── CameraViewModel.kt
-│   │   │   ├── processing/
-│   │   │   │   ├── ImageProcessor.kt
-│   │   │   │   └── ImageMerger.kt
-│   │   │   ├── ui/
-│   │   │   │   ├── CameraScreen.kt
-│   │   │   │   └── OverlayManager.kt
-│   │   │   └── utils/
-│   │   │       ├── PermissionHandler.kt
-│   │   │       └── FileManager.kt
-│   │   ├── res/
-│   │   │   ├── layout/
-│   │   │   ├── values/
-│   │   │   └── drawable/
-│   │   └── build.gradle
-│   └── gradle.properties
+│   └── app/
+│       ├── src/main/java/com/yourname/groupsnap/
+│       │   ├── MainActivity.kt
+│       │   ├── camera/
+│       │   │   ├── CameraController.kt
+│       │   │   └── CameraViewModel.kt
+│       │   ├── processing/
+│       │   │   ├── ImageProcessor.kt
+│       │   │   └── ImageMerger.kt
+│       │   ├── ui/
+│       │   │   ├── CameraScreen.kt
+│       │   │   └── OverlayManager.kt
+│       │   └── utils/
+│       │       ├── PermissionHandler.kt
+│       │       └── FileManager.kt
+│       ├── res/
+│       │   ├── layout/
+│       │   ├── values/
+│       │   └── drawable/
+│       └── build.gradle
 ├── docs/
 │   ├── API.md
 │   ├── CONTRIBUTING.md
@@ -77,6 +76,7 @@ GroupSnap/
     ├── mockups/
     └── demo-videos/
 ```
+
 
 ## 🎯 Development Roadmap
 
@@ -114,6 +114,9 @@ We welcome contributions! Please see our [Contributing Guidelines](docs/CONTRIBU
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -123,13 +126,12 @@ We welcome contributions! Please see our [Contributing Guidelines](docs/CONTRIBU
 
 ## 📞 Contact
 
-**Developer**: [Jerin Vincent]  
-**Email**: jevp43@gmail.com  
-**GitHub**: [@jer-in](https://github.com/jer-in)
+**Developer**: [Your Name]  
+**Email**: your.email@gmail.com  
+**GitHub**: [@yourusername](https://github.com/yourusername)
 
 ---
 
 ⭐ **Star this repo if you find it useful!** ⭐
 
 *Built with ❤️ for photographers who want to be in their own pictures*
-```
